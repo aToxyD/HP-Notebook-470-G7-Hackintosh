@@ -17,10 +17,8 @@ Working ✅:\
 \
 Not Working ❌:\
 ❌ iMessage\
-❌ You tel me
-
-
-BIOS Settings:\
+❌ You tel me\
 \
-Disable:\
-Secure Boot
+\
+BIOS Settings:\
+-Disable Secure Boot
