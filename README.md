@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 19a4566 (Initial commit)
 Working ✅:\
 ✅ Trachpad\
 ✅ Shutdown/Restart/Sleep\
@@ -17,7 +20,7 @@ Not Working ❌:\
 ❌ You tel me
 
 
-BIOS Settings:
-
-Disable:
+BIOS Settings:\
+\
+Disable:\
 Secure Boot
