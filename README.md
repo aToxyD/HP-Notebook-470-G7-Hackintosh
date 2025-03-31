@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+Well this is a working Hackintosh for HP Notebook 470 G7 with :\
+-Intel I3 10110U CPU\
+-Intel CometLake-U GT2 UHD Graphics\
 
-=======
->>>>>>> 19a4566 (Initial commit)
 Working ✅:\
 ✅ Trachpad\
 ✅ Shutdown/Restart/Sleep\
