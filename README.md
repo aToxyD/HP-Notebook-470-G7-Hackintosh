@@ -1,5 +1,6 @@
 # Hackintosh
 An EFI for HP Notebook 470 G7 i3-10110U Comet Lake with OpenCore
+
 ![image](https://github.com/user-attachments/assets/1ec86960-b9c6-42a7-9281-0a936ab23eb6)
 
 
