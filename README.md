@@ -31,7 +31,7 @@ An EFI for HP Notebook 470 G7 i3-10110U Comet Lake with OpenCore and Clover.
 - ✅ Brightness Keys
 
 # Not Working ❌:
-- ❌ iMessage
+- ❌ iMessage, see here for the fix (https://elitemacx86.com/threads/how-to-fix-intel-wifi-and-bluetooth-on-macos-sequoia-and-later.2066/)
 - ❌ You tell me
 
 # BIOS Settings:
