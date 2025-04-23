@@ -18,7 +18,7 @@ An EFI for HP Notebook 470 G7 i3-10110U Comet Lake with OpenCore and Clover.
 | macOS            | Sequoia 15.4                       |
 | Windows          | Windows 11                         |
 # Working ✅:
-- ✅ Trachpad 
+- ✅ Trackpad 
 - ✅ Shutdown/Restart/Sleep 
 - ✅ Internal Camera 
 - ✅ Audio
